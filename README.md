@@ -1,4 +1,4 @@
-LESS-challenge
+SASS-challenge
 ==============
 
-Learning the basics of LESS
+Learning the basics of SASS
