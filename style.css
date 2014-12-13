@@ -1,0 +1,21 @@
+body {
+  font: 100% Helvetica, sans-serif;
+  color: #ae0000; }
+
+header {
+  color: #FF4848; }
+
+nav {
+  padding: 1em; }
+  nav ul {
+    margin: 1em; }
+  nav p {
+    color: black; }
+
+.info, .Food {
+  float: right; }
+
+.Food {
+  color: green; }
+
+/*# sourceMappingURL=style.css.map */

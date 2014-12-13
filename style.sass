@@ -1,0 +1,29 @@
+$font-stack: Helvetica, sans-serif
+$red: #FF4848
+$fontsize: 16px
+
+body
+	font: 100% $font-stack
+	color: darken($red, 15% * 2)
+
+header
+	color: $red
+
+nav
+	padding: 1em
+
+	ul
+		margin: 1em
+	li
+		display:inline-block
+	p
+		color: black
+
+.info
+	float: right
+
+.Food
+	@extend .info
+	color: green
+
+
